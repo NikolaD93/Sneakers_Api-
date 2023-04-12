@@ -4,7 +4,7 @@
        "id": 0,
        "name": "Sneakers 1",
        "price": 160,
-       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681292442/main_xcnrmj.jpg",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681293003/shoes1_suasr1.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 12
@@ -13,7 +13,7 @@
        "id": 1,
        "name": "Sneakers 2",
        "price": 130,
-       "img": "https://unsplash.com/photos/76w_eDO1u1E",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681293003/shoes2_qvnnz3.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 18
@@ -22,7 +22,7 @@
        "id": 2,
        "name": "Sneakers 3",
        "price": 200,
-       "img": "https://unsplash.com/photos/jvoZ-Aux9aw",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681293003/shoes3_jvdvne.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 24
@@ -31,7 +31,7 @@
        "id": 3,
        "name": "Sneakers 4",
        "price": 100,
-       "img": "https://unsplash.com/photos/lJ7iAZxplpc",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681293003/shoes4_mfkr8q.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 15
@@ -40,7 +40,7 @@
        "id": 4,
        "name": "Sneakers 5",
        "price": 220,
-       "img": "https://unsplash.com/photos/s-gYAbQToXk",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681293002/shoes5_bjcosq.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 19
@@ -49,7 +49,7 @@
        "id": 5,
        "name": "Sneakers 6",
        "price": 290,
-       "img": "https://unsplash.com/photos/SD9Jyl1xNQ4",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681293002/shoes6_pzlxk6.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 29
@@ -58,7 +58,7 @@
        "id": 6,
        "name": "Sneakers 7",
        "price": 110,
-       "img": "https://unsplash.com/photos/kP6knT7tjn4",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681293002/shoes7_nlimat.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 11
@@ -67,7 +67,7 @@
        "id": 7,
        "name": "Sneakers 8",
        "price": 99,
-       "img": "https://unsplash.com/photos/g3CMh2nqj_w",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681293327/shoes8_sbl8oo.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 21
@@ -76,7 +76,7 @@
        "id": 8,
        "name": "Sneakers 9",
        "price": 99,
-       "img": "https://unsplash.com/photos/VDFmHq3Qkjc",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681293002/shoes9_jfz14y.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 13
