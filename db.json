@@ -4,7 +4,7 @@
        "id": 0,
        "name": "Sneakers 1",
        "price": 160,
-       "img": "./img/shoes1",
+       "img": "https://res.cloudinary.com/dfbmxwkk6/image/upload/v1681292442/main_xcnrmj.jpg",
        "desc": "Running shoes tend to be lighter in weight but heavier in cushioning, especially for the heel and the toe. Since running is a more intense sport, runners tend to exert more energy. Your feet get hot, and most running shoes are made of mesh to allow air to move freely. This mesh also keeps the shoe lighter.",
        "category": "Running shoes",
        "qty": 12
